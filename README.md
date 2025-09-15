@@ -40,8 +40,7 @@ learning about DevOps Cloud and Machine learning and upskilling Myself everyday.
 
 \[![Husain's GitHub stats](https://github-readme-stats.vercel.app/api?username=HUSAINTRIVEDI52&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HUSAINTRIVEDI52&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HUSAINTRIVEDI52)](https://git.io/streak-stats)
-## 🔗 Connect with me
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HUSAINTRIVEDI52&theme=radical&hide_border=true)](https://git.io/streak-stats)## 🔗 Connect with me
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/husaintrivedi/)
 
