@@ -35,18 +35,17 @@ learning about DevOps Cloud and Machine learning and upskilling Myself everyday.
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https.img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ## 📊 My GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/HUSAINTRIVEDI52/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/HUSAINTRIVEDI52/github-readme-stats)
-
+\[![Husain's GitHub stats](https://github-readme-stats.vercel.app/api?username=HUSAINTRIVEDI52&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HUSAINTRIVEDI52&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ## 🔗 Connect with me
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/husaintrivedi/)
 
 
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 ## ✨ My Projects
 
 - [Project 1](link-to-project-1): A brief description of your project.
