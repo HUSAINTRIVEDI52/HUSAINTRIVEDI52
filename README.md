@@ -48,11 +48,3 @@ learning about DevOps Cloud and Machine learning and upskilling Myself everyday.
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 ## ✨ My Projects
 
-- [Project 1](link-to-project-1): A brief description of your project.
-- [Project 2](link-to-project-2): A brief description of your project.
-- [Project 3](link-to-project-3): A brief description of your project.
-
-## 🙏 Acknowledgements
-
-- [Awesome README Templates](https://awesome-readme-templates.com/)
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
