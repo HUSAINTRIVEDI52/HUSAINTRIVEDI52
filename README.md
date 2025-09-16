@@ -38,8 +38,7 @@ learning about DevOps Cloud and Machine learning and upskilling Myself everyday.
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white)
 ## 📊 My GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=HUSAINTRIVEDI52&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-\[![Husain's GitHub stats](https://github-readme-stats.vercel.app/api?username=HUSAINTRIVEDI52&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+\[![Husain's GitHub stats](https://github-readme-stats.vercel.app/api?username=HUSAINTRIVEDI52&show_icons=true&theme=radical)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HUSAINTRIVEDI52&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Profile Views](https://komarev.com/ghpvc/?username=HUSAINTRIVEDI52&color=B22222&style=flat-square&label=PROFILE+VIEWS)
 
