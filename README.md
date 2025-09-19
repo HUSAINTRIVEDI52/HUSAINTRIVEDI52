@@ -7,7 +7,6 @@ I'm a passionate Learner/Developer/Engineer from Ahmedabad.
 learning about DevOps Cloud and Machine learning and upskilling Myself everyday.
 
 
-- 🔭 I’m currently working on a Secret Project
 - 🌱 I’m currently learning Devops and cloud concepts wuth some basics of machine learning
 - 👯 I’m looking to collaborate on DevOps and Cloud projects
 - 🤔 I’m looking for help with Machine learner
