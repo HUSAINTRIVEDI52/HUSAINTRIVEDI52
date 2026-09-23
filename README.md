@@ -1,38 +1,37 @@
-# Hi there 👋, I'm Husain Trivedi
+### Hi there 👋, I'm Husain Trivedi
 
 ## 🚀 About Me
 
-I'm a passionate Learner/Developer/Engineer from Ahmedabad.
+I'm a GIS & Remote Sensing fresher from Ahmedabad, India, with hands-on experience
+in QGIS, ArcGIS, and remote sensing workflows — including NDVI analysis, LULC
+classification, and terrain mapping. I combine geospatial analysis with a working
+knowledge of full-stack development and DevOps, having built and deployed web
+applications end to end.
 
-learning about DevOps Cloud and Machine learning and upskilling Myself everyday.
+- 🔭 Currently doing an Advance Diploma in Geoinformatics (Khagolam Institute) and
+  a WebGIS program (Harita Hive)
+- 🌱 Learning more about Google Earth Engine, spatial Python (GeoPandas, ArcPy),
+  and cloud/DevOps tools
+- 🗺️ Independently authored a 24-year (2000–2024) LULC change analysis of
+  Ahmedabad using ArcGIS Pro and QGIS
+- 💬 Ask me about GIS, remote sensing, or the DevOps/full-stack side of building
+  web apps
+- 📫 Reach me: husaintd522@gmail.com
 
+## 🛠️ Skills
 
-- 🌱 I’m currently learning Devops and cloud concepts wuth some basics of machine learning
-- 👯 I’m looking to collaborate on DevOps and Cloud projects
-- 🤔 I’m looking for help with Machine learner
-- 💬 Ask me  Anything about the IT
-- 📫 How to reach me: husaintd522@gmail.com
-- 😄 Pronouns: he/Him
-- ⚡ Fun fact: A great friend of yours
+**GIS & Remote Sensing:** ArcGIS, ArcGIS Pro, QGIS, Google Earth Engine, Erdas
+Imagine, Pix4D, LiDAR processing
 
-## 🛠️ My Skills
+**CAD & Mapping:** AutoCAD Civil 3D, MicroStation
 
-### **Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Programming:** Python (NumPy, Pandas, ArcPy, GeoPandas)
 
-### **Frameworks and Libraries**
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+**Cloud & DevOps:** AWS (EC2, IAM), Docker, Kubernetes, Jenkins, GitHub Actions,
+Ansible, Linux, Git, MySQL
 
-### **Tools and Technologies**
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white)
+## 📊 GitHub Stats
+
 ## 📊 My GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=HUSAINTRIVEDI52&theme=radical&hide_border=true)](https://git.io/streak-stats)
 \[![Husain's GitHub stats](https://github-readme-stats.vercel.app/api?username=HUSAINTRIVEDI52&show_icons=true&theme=radical)]
